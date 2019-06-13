@@ -1,2 +1,3 @@
-# Instagram-Front
-Instagram Clone using React 
+# Instagram-React
+
+Frontend Instagram Clone using React
